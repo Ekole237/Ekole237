@@ -1,5 +1,12 @@
 # 💫 About Me:
-## Hi there! 👋 I'm a 4th-year Software Engineering student and passionate full-stack developer based in Cameroon.<br><br>🛠️ Tech Stack: JavaScript, TypeScript, AdonisJS, React, React Native, Vue, Python, SQL, Docker<br/><br>📚 Currently building Hekolearn – an EdTech platform empowering students with quality resources and home tutoring.  <br/><br>📈 I'm also exploring data analysis and engineering with Python, SQL, Quarto, and cronjob automation.<br/>  <br>🎥 I create educational videos and web training content using OBS Studio and Kdenlive.<br/>  <br>🤖 Experimenting with generative AI to enhance learning and language tools (DictéeAI – soon as a SaaS).<br/>  <br>🌍 I believe in the power of open-source, education, and digital tools to transform lives in Africa.<br/><br><br>Let's connect and build something impactful!
+## Hi there! 👋 I'm a 4th-year Software Engineering student and passionate full-stack developer based in Cameroon.
+🛠️ Tech Stack: JavaScript, TypeScript, AdonisJS, React, React Native, Vue, Python, SQL, Docker<br/>
+📚 Currently building Hekolearn – an EdTech platform empowering students with quality resources and home tutoring.<br/>
+📈 I'm also exploring data analysis and engineering with Python, SQL, Quarto, and cronjob automation.<br/>
+🎥 I create educational videos and web training content using OBS Studio and Kdenlive.<br/>
+🤖 Experimenting with generative AI to enhance learning and language tools (DictéeAI – soon as a SaaS).<br/>
+🌍 I believe in the power of open-source, education, and digital tools to transform lives in Africa.<br/>
+Let's connect and build something impactful!
 
 
 # 💻 Tech Stack:
