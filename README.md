@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there! 👋 I'm a 4th-year Software Engineering student and passionate full-stack developer based in Cameroon.
+## Hi there! 👋 I'm a 5th-year Software Engineering student and passionate full-stack developer based in Cameroon.
 🛠️ Tech Stack: JavaScript, TypeScript, AdonisJS, React, React Native, Vue, Python, SQL, Docker<br/>
 📚 Currently building Hekolearn – an EdTech platform empowering students with quality resources and home tutoring.<br/>
 📈 I'm also exploring data analysis and engineering with Python, SQL, Quarto, and cronjob automation.<br/>
